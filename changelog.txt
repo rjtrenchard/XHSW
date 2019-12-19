@@ -13,3 +13,6 @@ December 18, 2019
 	- added clear
 	- changed the q switcher to be more intuitive
 	- renamed most aliases to be in an xhsw namespace
+
+December 19, 2019
+ - fixed most class weapon switchers
