@@ -15,17 +15,33 @@ The file xhsw_settings is executed first, anything you put in the other settings
 The other files are made to be as hands-off as possible, You are not required to touch them.
 
 - Spy appends "lastdisguise" to mwheel clicks, as personally I use mouse4/5 for weapon switching. this way you can quickchange your weapon while disguised. This can be changed in xhsw_settings_spy.cfg
+- Spy reverses the melee and secondary (sapper) order, I don't play spy who I don't know what works best. Email me some feedback.
 - Demoknight completely disables anything but melee (DeGroot mode)
 - Engineer and Spy profiles exist, although I'd suggest you hotkey your spykit and build/destroy keys anyway.
+
+Commands
+=====
+- xhsw_clear - Clears xhsw from the game session.
+- xhsw_start - Starts xhsw at the
+- xhsw_next_setting : next profile toggle
+- xhsw_standard : standard 3-weapon profile
+- xhsw_noprimary : disables primary weapon
+- xhsw_nosecondary : disables secondary weapon
+- xhsw_demoknight : disables primary and secondary weapon
+- xhsw_engineer : enables the engineer profile
+- xhsw_spy : enables the spy profile
 
 Installation
 =====
 To install, copy all cfg files (prepended with xhsw_*) to the tf/cfg/ folder.
+You can either edit your class config file and add "exec xhsw_start" or go into console in game and type "exec xhsw_start"
+
 
 TODO
 =====
 - Weapon switch for numbered key entry (using 1..6 to select your weapon) working with xhsw_lastweapon
-- Grapple hook toggle
+- add a spy profile for switching the weapon order
+- Add Grapple hook toggle
 
 Author
 =====
