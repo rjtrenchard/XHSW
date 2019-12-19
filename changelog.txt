@@ -1,0 +1,15 @@
+December 18, 2019
+	- first commit
+	- named project XHSW ("Crosshair Switcher")
+	- added reload to try weapon if it wasnt available
+	- added view switcher (default to f key in binds)
+	- added no secondary file
+	- added demoknight file
+	- added engineer file
+	- added spy file
+	- added defaults file
+	- added settings file
+	- added "bootstrap" file (it just populates aliases to remove errors from console)
+	- added clear
+	- changed the q switcher to be more intuitive
+	- renamed most aliases to be in an xhsw namespace
