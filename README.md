@@ -23,7 +23,6 @@ Commands
 =====
 - xhsw_clear - Clears xhsw from the game session.
 - xhsw_start - Starts xhsw at the
-- xhsw_next_setting : next profile toggle
 - xhsw_standard : standard 3-weapon profile
 - xhsw_noprimary : disables primary weapon
 - xhsw_nosecondary : disables secondary weapon
@@ -40,10 +39,12 @@ You can either edit your class config file and add "exec xhsw_start" or go into 
 TODO
 =====
 - Weapon switch for numbered key entry (using 1..6 to select your weapon) working with xhsw_lastweapon
-- add a spy profile for switching the weapon order
+- Add a Spy profile for switching the weapon order
 - Add Grapple hook toggle
+- Add a command for toggling weapon profiles.
 
 Author
 =====
 Nattajerk
+
 Support contact: nattakorps@gmail.com
