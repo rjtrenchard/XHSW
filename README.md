@@ -13,6 +13,10 @@ The file xhsw_settings is executed first, anything you put in the other settings
 
 The other files are made to be as hands-off as possible, You are not required to touch them.
 
+- Spy appends "lastdisguise" to mwheel clicks, as personally I use mouse4/5 for weapon switching. this way you can quickchange your weapon while disguised.
+- Demoknight completely disables anything but melee.
+
+
 Author
 =====
 Nattajerk
