@@ -16,3 +16,9 @@ December 18, 2019
 
 December 19, 2019
  - fixed most class weapon switchers
+ - added class profile switcher
+ - rewrote almost everything
+ - added mannpower mode toggle
+ - added spy quickswap
+ - renamed bootstrap and defaults to init and core
+ - made "xhsw_start" the entry point of XHSW
