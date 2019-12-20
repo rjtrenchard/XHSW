@@ -2,12 +2,19 @@ XHSW Crosshair switcher
 =====
 
 XHSW is a crosshair switcher for Team Fortress 2.
-It supports different weapon settings, such as no primary, no secondary, and demoknight modes,
-It also features a quick toggle for viewmodels (defaults to F).
+It supports different weapon settings, such as no primary, no secondary, and demoknight modes.
+Engineer and Spy modes are supported, as well as Mannpower.
 
 Settings
 -----
-Edit the files xhsw_settings.cfg, xhsw_settings_spy.cfg, xhsw_settings_noprimary, xhsw_settings_nosecondary.cfg, xhsw_settings_demoknight.cfg, and xhsw_settings_engineer.cfg
+The user settings are in the files:
+- xhsw_settings.cfg
+- xhsw_settings_spy.cfg
+- xhsw_settings_noprimary
+- xhsw_settings_nosecondary.cfg
+- xhsw_settings_demoknight.cfg
+- xhsw_settings_engineer.cfg
+- xhsw_settings_mannpower.cfg
 
 The file xhsw_settings is executed first, anything you put in the other settings files will overwrite the defaults,
  you can use those files to make some specific colourschemes for whatever class you like.
