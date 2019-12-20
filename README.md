@@ -22,6 +22,11 @@ The other files are made to be as hands-off as possible, You are not required to
 Binds
 -----
 - 7 : toggles mannpower mode (claw)
+- 8 : enables the standard 3-weapon profile
+- 9 : enables the demoknight profile
+- 0 : enables the nosecondary profile
+- - : enables the noprimary profile
+- = : enables the spy/engineer profile
 
 Commands
 -----
@@ -33,13 +38,14 @@ Commands
 - xhsw_demoknight : disables primary and secondary weapon
 - xhsw_engineer : enables the engineer profile
 - xhsw_spy : enables the spy profile
-- xhsw_next_setting : switches to the next profile (not a part of spy/engineer)
 - xhsw_this_setting : reloads the current profile
 
 Installation
 -----
 To install, copy all cfg files (prepended with xhsw_*) to the tf/cfg/ folder.
 You can either edit your class config file and add "exec xhsw_start" or go into console in game and type "exec xhsw_start"
+
+for engineer and spy profiles to start by default, in the class file add "exec xhsw_start_engineer" or "exec xhsw_start_spy" respectively.
 
 
 TODO
