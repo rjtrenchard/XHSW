@@ -35,7 +35,7 @@ Binds
 - 8 : enables the standard 3-weapon profile
 - 9 : enables the demoknight profile
 - 0 : enables the nosecondary profile
-- - : enables the noprimary profile
+- \- : enables the noprimary profile
 - = : enables the spy/engineer profile
 
 Commands
