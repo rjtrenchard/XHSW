@@ -22,3 +22,8 @@ December 19, 2019
  - added spy quickswap
  - renamed bootstrap and defaults to init and core
  - made "xhsw_start" the entry point of XHSW
+
+ December 20, 2019
+ - removed xhsw_clear.cfg
+ - made xhsw_core.cfg start from xhsw_init.cfg rather than individual profiles
+ - added a template file
