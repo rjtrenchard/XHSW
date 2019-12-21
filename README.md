@@ -49,6 +49,7 @@ Commands
 - xhsw_demoknight : disables primary and secondary weapon
 - xhsw_engineer : enables the engineer profile
 - xhsw_spy : enables the spy profile
+- xhsw_mannpower : toggles mannpower mode
 - xhsw_this_setting : reloads the current profile
 
 Making your own profiles
