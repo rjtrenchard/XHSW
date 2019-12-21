@@ -58,14 +58,13 @@ The other files are made to be as hands-off as possible, You are not required to
 
 ## Commands
 
-
+##### Starting XHSW
 - xhsw_start - Starts xhsw
 - xhsw_start_engineer - Starts xhsw with engineer profile
 - xhsw_start_spy - Starts xhsw with spy profile
 - xhsw_restart : reloads XHSW
 
-
-
+##### Choosing a profile
 - xhsw_standard : standard 3-weapon profile
 - xhsw_noprimary : disables primary weapon
 - xhsw_nosecondary : disables secondary weapon
@@ -74,16 +73,20 @@ The other files are made to be as hands-off as possible, You are not required to
 - xhsw_spy : enables the spy profile
 - xhsw_this_setting : reloads the current profile
 
-
-
+##### Enabling Mannpower
 - xhsw_mannpower : toggles mannpower mode
 
-
-
+##### Weapon Commands
 - xhsw_upbind : scrolls up one weapon
 - xhsw_downbind : scrolls down one weapon
 - xhsw_qswitch : uses last weapon
-
+- xhsw_primary : switches to primary
+- xhsw_secondary : switches to secondary
+- xhsw_melee : switches to melee
+- xhsw_sapper : switches to sapper (Spy)
+- xhsw_build : switches to build (Engineer)
+- xhsw_destroy : switches to destroy (Engineer)
+- xhsw_claw : switches to claw (Mannpower)
 
 ##### Spy Commands
 
