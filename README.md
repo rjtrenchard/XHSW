@@ -19,7 +19,7 @@ XHSW will change your crosshair based on what weapon you use. This makes it easi
 Installation
 -----
 ***
-To install, copy all cfg files (prepended with xhsw_*) to the steamapps\common\Team Fortress 2\tf\cfg folder.
+To install, copy all `*.cfg` files (prepended with xhsw_*) to the `...\steamapps\common\Team Fortress 2\tf\cfg` folder.
 
 In your class files, or autoexec.cfg, add the line
 ```
