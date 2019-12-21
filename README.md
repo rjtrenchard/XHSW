@@ -41,7 +41,9 @@ Binds
 Commands
 -----
 - xhsw_clear - Clears xhsw from the game session.
-- xhsw_start - Starts xhsw at the
+- xhsw_start - Starts xhsw
+- xhsw_start_engineer - Starts xhsw with engineer profile
+- xhsw_start_spy - Starts xhsw with spy profile
 - xhsw_standard : standard 3-weapon profile
 - xhsw_noprimary : disables primary weapon
 - xhsw_nosecondary : disables secondary weapon
