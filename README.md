@@ -2,17 +2,16 @@
 
 XHSW is a crosshair and weapon switcher for Team Fortress 2.
 It supports different weapon settings, such as no primary, no secondary, and demoknight modes. Profiles are available at the press of a button - or a console command if you like.
-Engineer and Spy modes are supported, as well as a toggle for Mannpower mode.
 
 
 ## Feature
 
-XHSW will change your crosshair based on what weapon you use. This makes it easier to tell what weapon you are using when using no viewmodels. XHSW is also a weapon switcher and adds a few features to your weapon set
+XHSW will change your crosshair based on what weaponslot you have selected. This makes it easier to tell what weapon you are using when using no viewmodels. XHSW also adds a few features to your weapon set:
 
-- Spy has a secondary quick weapon switch bind. This way you can quickchange your weapon while disguised. This can be changed in xhsw_settings_spy.cfg
-- Spy reverses the melee and secondary (sapper) order.
-- Demoknight completely disables anything but melee (DeGroot mode)
-- Spy and Engineer's extra weapons have profiles as well
+- Spy and Engineer's extra weapons have profiles
+- Spy has a secondary quick weapon switch bind. This way you can quickchange your weapon naturally while disguised. This can be enabled or changed in xhsw_settings_spy.cfg and setting xhsw_upbind_disguise/downbind to a key.
+- Spy reverses the melee and secondary (sapper) order. It will go Primary > Melee > Sapper > Disguise Kit
+- Demoknight completely disables anything but melee (DeGroot mode), except with mannpower enabled.
 
 ## Installation
 
@@ -59,10 +58,12 @@ The other files are made to be as hands-off as possible, You are not required to
 
 ## Commands
 
+
 - xhsw_start - Starts xhsw
 - xhsw_start_engineer - Starts xhsw with engineer profile
 - xhsw_start_spy - Starts xhsw with spy profile
 - xhsw_restart : reloads XHSW
+
 
 
 - xhsw_standard : standard 3-weapon profile
@@ -74,12 +75,15 @@ The other files are made to be as hands-off as possible, You are not required to
 - xhsw_this_setting : reloads the current profile
 
 
+
 - xhsw_mannpower : toggles mannpower mode
+
 
 
 - xhsw_upbind : scrolls up one weapon
 - xhsw_downbind : scrolls down one weapon
 - xhsw_qswitch : uses last weapon
+
 
 ##### Spy Commands
 
