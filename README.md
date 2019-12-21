@@ -1,14 +1,12 @@
-XHSW Crosshair switcher
-=====
+# XHSW Crosshair switcher
 
-XHSW is a crosshair switcher for Team Fortress 2.
-It supports different weapon settings, such as no primary, no secondary, and demoknight modes.
-Engineer and Spy modes are supported, as well as Mannpower.
+XHSW is a crosshair and weapon switcher for Team Fortress 2.
+It supports different weapon settings, such as no primary, no secondary, and demoknight modes. Profiles are available at the press of a button - or a console command if you like.
+Engineer and Spy modes are supported, as well as a toggle for Mannpower mode.
 
 
-Feature
------
-***
+## Feature
+
 XHSW will change your crosshair based on what weapon you use. This makes it easier to tell what weapon you are using when using no viewmodels. XHSW is also a weapon switcher and adds a few features to your weapon set
 
 - Spy has a secondary quick weapon switch bind. This way you can quickchange your weapon while disguised. This can be changed in xhsw_settings_spy.cfg
@@ -16,9 +14,8 @@ XHSW will change your crosshair based on what weapon you use. This makes it easi
 - Demoknight completely disables anything but melee (DeGroot mode)
 - Spy and Engineer's extra weapons have profiles as well
 
-Installation
------
-***
+## Installation
+
 To install, copy all `*.cfg` files (prepended with xhsw_*) to the `...\steamapps\common\Team Fortress 2\tf\cfg` folder.
 
 In your class files, or autoexec.cfg, add the line
@@ -36,9 +33,8 @@ or
 ```
 respective to that class, if desired.
 
-Settings
------
-***
+## Settings
+
 The user settings are in the files:
 - xhsw_settings.cfg
 - xhsw_settings_spy.cfg
@@ -52,9 +48,8 @@ The file xhsw_settings is executed first, anything you put in the other settings
 
 The other files are made to be as hands-off as possible, You are not required to touch them.
 
-Binds
------
-***
+## Binds
+
 - 7 : toggles mannpower mode (claw)
 - 8 : enables the standard 3-weapon profile
 - 9 : enables the demoknight profile
@@ -62,9 +57,7 @@ Binds
 - \- : enables the noprimary profile
 - = : enables the spy/engineer profile (if xhsw_start_engineer and xhsw_start_spy are in the class cfg files)
 
-Commands
------
-***
+## Commands
 
 - xhsw_start - Starts xhsw
 - xhsw_start_engineer - Starts xhsw with engineer profile
@@ -94,9 +87,8 @@ Commands
 - xhsw_downbind_disguise : scrolls down between the primary, secondary, and melee weapons as natural
 
 
-Making your own profiles
------
-***
+## Making your own profiles
+
 Copy `xhsw_template.cfg` to a new file
 
 Initialize with:
@@ -107,9 +99,7 @@ in your class file or a new start file.
 
 Follow the TODO's in the template and execute your new file.
 
-Author & Support
------
-***
+## Author & Support
 
 [Nattajerk](https://steamcommunity.com/id/nattajerk/)
 
