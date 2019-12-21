@@ -40,7 +40,6 @@ Binds
 
 Commands
 -----
-- xhsw_clear - Clears xhsw from the game session.
 - xhsw_start - Starts xhsw
 - xhsw_start_engineer - Starts xhsw with engineer profile
 - xhsw_start_spy - Starts xhsw with spy profile
@@ -51,6 +50,13 @@ Commands
 - xhsw_engineer : enables the engineer profile
 - xhsw_spy : enables the spy profile
 - xhsw_this_setting : reloads the current profile
+
+Making your own profiles
+-----
+- Copy `xhsw_standard` to a new file
+- initialize with `exec xhsw_init` in the class file or start file.
+- make your own settings file and execute it xhsw
+
 
 Installation
 -----
