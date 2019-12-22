@@ -19,7 +19,7 @@ December 19, 2019
  - added class profile switcher
  - rewrote almost everything
  - added mannpower mode toggle
- - added spy quickswap
+ - added spy-specific quickswap
  - renamed bootstrap and defaults to init and core
  - made "xhsw_start" the entry point of XHSW
 
@@ -27,3 +27,7 @@ December 19, 2019
  - removed xhsw_clear.cfg
  - made xhsw_core.cfg start from xhsw_init.cfg rather than individual profiles
  - added a template file
+
+ December 21, 2019
+ - added keybinds that change the way engineers build (what happens after you place a building?)
+ - added a feature to make a weapon selectable only once so that it cant overwrite the qswitch with itself
