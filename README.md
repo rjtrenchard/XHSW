@@ -82,9 +82,9 @@ The other files are made to be as hands-off as possible, You are not required to
 - `xhsw_destroy` : switches to destroy (Engineer)
 - `xhsw_claw` : switches to claw (Mannpower)
 
-##### Spy Commands
-- `xhsw_upbind_disguise` : scrolls up between the primary, secondary, and melee weapons as natural
-- `xhsw_downbind_disguise` : scrolls down between the primary, secondary, and melee weapons as natural
+##### Spy/Engineer Commands
+- `xhsw_upbind_wep_only` : scrolls up between the primary, secondary, and melee weapons as natural
+- `xhsw_downbind_wep_only` : scrolls down between the primary, secondary, and melee weapons as natural
 
 
 ## Making your own profiles
