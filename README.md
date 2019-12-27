@@ -93,6 +93,7 @@ Copy `xhsw_template.cfg` to a new file
 Initialize with:
 ```
 exec xhsw_init
+exec xhsw_core
 ```
 in your class file or a new start file.
 
