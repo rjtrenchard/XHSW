@@ -33,7 +33,7 @@ respective to that class, if desired.
 The user settings are in the files:
 - `xhsw_settings.cfg`
 - `xhsw_settings_spy.cfg`
-- `xhsw_settings_noprimary`
+- `xhsw_settings_noprimary.cfg`
 - `xhsw_settings_nosecondary.cfg`
 - `xhsw_settings_demoknight.cfg`
 - `xhsw_settings_engineer.cfg`
@@ -54,6 +54,7 @@ The other files are made to be as hands-off as possible, You are not required to
 
 ## Commands
 ##### Starting XHSW
+- `exec xhsw_start` : initial start from console
 - `xhsw_start` : Starts xhsw
 - `xhsw_start_engineer` : Starts xhsw with engineer profile
 - `xhsw_start_spy` : Starts xhsw with spy profile
