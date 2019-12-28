@@ -90,6 +90,9 @@ The other files are made to be as hands-off as possible, You are not required to
 - Engineer is broken, swapping to a weapon after build/destroy breaks the game
 - Spy weapon gets stuck after disguise
 
+## TODO list
+- update xhsw_init
+
 ## Author & Support
 [Nattajerk](https://steamcommunity.com/id/nattajerk/)
 
