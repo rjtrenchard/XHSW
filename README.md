@@ -50,6 +50,7 @@ The other files are made to be as hands-off as possible, You are not required to
 - 0 : enables the nosecondary profile
 - \- : enables the noprimary profile
 - = : enables the spy/engineer profile (if xhsw_start_engineer and xhsw_start_spy are in the class cfg files)
+- p : toggles the viewmodel mode, hides or shows the current viewmodel.
 
 ## Commands
 ##### Starting XHSW
