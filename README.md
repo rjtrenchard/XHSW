@@ -86,18 +86,9 @@ The other files are made to be as hands-off as possible, You are not required to
 - `xhsw_upbind_wep_only` : scrolls up between the primary, secondary, and melee weapons as natural
 - `xhsw_downbind_wep_only` : scrolls down between the primary, secondary, and melee weapons as natural
 
-
-## Making your own profiles
-Copy `xhsw_template.cfg` to a new file
-
-Initialize with:
-```
-exec xhsw_init
-exec xhsw_core
-```
-in your class file or a new start file.
-
-Follow the TODO's in the template and execute your new file.
+## Known Issues
+- Engineer is broken, swapping to a weapon after build/destroy breaks the game
+- Spy weapon gets stuck after disguise
 
 ## Author & Support
 [Nattajerk](https://steamcommunity.com/id/nattajerk/)

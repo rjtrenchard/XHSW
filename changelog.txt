@@ -34,3 +34,6 @@ December 19, 2019
 
  December 24, 2019
  - added weapon-only binds to engineer and spy
+
+ December 28, 2019
+ - removed template file
