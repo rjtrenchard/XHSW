@@ -92,9 +92,9 @@ The other files are made to be as hands-off as possible, You are not required to
 - Spy weapon gets stuck after disguise
 
 ## TODO list
-- update xhsw_init
+- update xhsw_init to include all the new aliases
 
 ## Author & Support
-[Nattajerk](https://steamcommunity.com/id/nattajerk/)
+Author's Steam: [Nattajerk](https://steamcommunity.com/id/nattajerk/)
 
 Support: [email](mailto:nattakorps@gmail.com)
