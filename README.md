@@ -88,6 +88,9 @@ The other files are made to be as hands-off as possible, You are not required to
 - `xhsw_upbind_wep_only` : scrolls up between the primary, secondary, and melee weapons as natural
 - `xhsw_downbind_wep_only` : scrolls down between the primary, secondary, and melee weapons as natural
 
+##### Miscellaneous Commands
+- `xhsw_version` : Display version information and last tf2 update date since XHSW was built.
+
 ## Known Issues
 - Engineer is broken, swapping to a weapon after build/destroy breaks the game
 - Spy weapon gets stuck after disguise
